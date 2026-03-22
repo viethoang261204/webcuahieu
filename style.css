@@ -1,0 +1,21 @@
+body {
+    background-color: #EEEEEE;
+    text-align: center;
+}
+
+#a {
+    font-size: 100px;
+}
+
+img {
+    border-radius: 50%;
+}
+
+h2{
+    font-size: 100px;
+}
+li,p {
+    font-size: 50px;
+    list-style: none;
+}
+
